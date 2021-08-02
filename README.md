@@ -1,1 +1,1 @@
-# python-minesweeper
+# Python-minesweeper
